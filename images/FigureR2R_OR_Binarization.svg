@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 215.35 163.37">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: .8px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-9, .cls-10, .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-15 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
+        fill: #1d1d1b;
+      }
+
+      .cls-12, .cls-14, .cls-15 {
+        font-size: 7px;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 2.02 1.01;
+      }
+
+      .cls-2, .cls-3, .cls-10, .cls-4, .cls-5, .cls-6, .cls-7, .cls-11, .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3, .cls-8 {
+        stroke: #e30613;
+      }
+
+      .cls-10, .cls-7 {
+        stroke: #2c7546;
+      }
+
+      .cls-13 {
+        font-size: 7.5px;
+      }
+
+      .cls-14 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-4 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-17 {
+        letter-spacing: -.16em;
+      }
+
+      .cls-15, .cls-18 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-16 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 5px;
+      }
+
+      .cls-5, .cls-11 {
+        stroke: #ee7116;
+      }
+
+      .cls-6 {
+        stroke: #dadada;
+        stroke-width: 4px;
+      }
+
+      .cls-8 {
+        stroke-dasharray: 0 0 2.04 1.02;
+      }
+    </style>
+  </defs>
+  <text class="cls-12" transform="translate(9.13 94.06)"><tspan class="cls-17" x="0" y="0">T</tspan><tspan class="cls-18" x="3.15" y="0">otal (≥1 language)</tspan></text>
+  <text class="cls-15" transform="translate(0 105.17)"><tspan x="0" y="0">3 additional languages</tspan></text>
+  <text class="cls-15" transform="translate(0 116.29)"><tspan x="0" y="0">2 additional languages</tspan></text>
+  <text class="cls-15" transform="translate(3.15 127.4)"><tspan x="0" y="0">1 additional language</tspan></text>
+  <text class="cls-14" transform="translate(18.02 138.52) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
+  <g>
+    <line class="cls-1" x1="64.88" y1="92.48" x2="62.99" y2="92.48"/>
+    <line class="cls-1" x1="64.88" y1="103.4" x2="62.99" y2="103.4"/>
+    <line class="cls-1" x1="64.88" y1="114.51" x2="62.99" y2="114.51"/>
+    <line class="cls-1" x1="64.88" y1="125.62" x2="62.99" y2="125.62"/>
+    <line class="cls-1" x1="64.88" y1="136.74" x2="62.99" y2="136.74"/>
+  </g>
+  <text class="cls-12" transform="translate(118.3 148.93)"><tspan x="0" y="0">1.0</tspan></text>
+  <text class="cls-12" transform="translate(129.05 161.09)"><tspan x="0" y="0">OR</tspan></text>
+  <text class="cls-12" transform="translate(205.62 148.93)"><tspan x="0" y="0">2.5</tspan></text>
+  <text class="cls-12" transform="translate(62.94 149.02)"><tspan x="0" y="0">0</tspan></text>
+  <line class="cls-1" x1="64.88" y1="140.98" x2="64.88" y2="143.18"/>
+  <line class="cls-1" x1="123.12" y1="140.98" x2="123.12" y2="143.18"/>
+  <text class="cls-12" transform="translate(146.79 148.93)"><tspan x="0" y="0">1.5</tspan></text>
+  <line class="cls-1" x1="151.61" y1="140.98" x2="151.61" y2="143.18"/>
+  <text class="cls-12" transform="translate(176.08 148.93)"><tspan x="0" y="0">2.0</tspan></text>
+  <line class="cls-1" x1="180.9" y1="140.98" x2="180.9" y2="143.18"/>
+  <text class="cls-12" transform="translate(89.37 148.93)"><tspan x="0" y="0">0.5</tspan></text>
+  <line class="cls-1" x1="94.18" y1="140.98" x2="94.18" y2="143.18"/>
+  <line class="cls-1" x1="210.49" y1="140.98" x2="210.49" y2="143.18"/>
+  <g>
+    <line class="cls-3" x1="123.17" y1="140.98" x2="123.17" y2="139.98"/>
+    <line class="cls-8" x1="123.17" y1="138.96" x2="123.17" y2="87.47"/>
+    <line class="cls-3" x1="123.17" y1="86.96" x2="123.17" y2="85.96"/>
+  </g>
+  <line class="cls-7" x1="91.03" y1="92.48" x2="98.61" y2="92.48"/>
+  <rect class="cls-10" x="91.99" y="89.64" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
+  <line class="cls-7" x1="101.98" y1="103.4" x2="117.71" y2="103.4"/>
+  <rect class="cls-10" x="107.01" y="100.57" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
+  <line class="cls-7" x1="95.89" y1="114.51" x2="104.4" y2="114.51"/>
+  <rect class="cls-10" x="97.31" y="111.68" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
+  <line class="cls-7" x1="113.18" y1="125.62" x2="121.34" y2="125.62"/>
+  <rect class="cls-10" x="114.43" y="122.79" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
+  <line class="cls-5" x1="210.13" y1="136.74" x2="166.41" y2="136.74"/>
+  <rect class="cls-11" x="185.43" y="133.9" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
+  <text class="cls-12" transform="translate(9.13 18.64)"><tspan class="cls-17" x="0" y="0">T</tspan><tspan class="cls-18" x="3.15" y="0">otal (≥1 language)</tspan></text>
+  <text class="cls-15" transform="translate(0 29.75)"><tspan x="0" y="0">3 additional languages</tspan></text>
+  <text class="cls-15" transform="translate(0 40.87)"><tspan x="0" y="0">2 additional languages</tspan></text>
+  <text class="cls-15" transform="translate(3.15 51.98)"><tspan x="0" y="0">1 additional language</tspan></text>
+  <text class="cls-14" transform="translate(18.02 63.1) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
+  <g>
+    <line class="cls-1" x1="64.88" y1="17.06" x2="62.99" y2="17.06"/>
+    <line class="cls-1" x1="64.88" y1="27.98" x2="62.99" y2="27.98"/>
+    <line class="cls-1" x1="64.88" y1="39.1" x2="62.99" y2="39.1"/>
+    <line class="cls-1" x1="64.88" y1="50.21" x2="62.99" y2="50.21"/>
+    <line class="cls-1" x1="64.88" y1="61.32" x2="62.99" y2="61.32"/>
+  </g>
+  <g>
+    <line class="cls-3" x1="123.14" y1="72.64" x2="123.14" y2="71.64"/>
+    <line class="cls-2" x1="123.14" y1="70.63" x2="123.14" y2="10.58"/>
+    <line class="cls-3" x1="123.14" y1="10.08" x2="123.14" y2="9.08"/>
+  </g>
+  <line class="cls-7" x1="90.65" y1="17.06" x2="98.22" y2="17.06"/>
+  <rect class="cls-10" x="91.6" y="14.22" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
+  <line class="cls-7" x1="102.22" y1="27.98" x2="117.08" y2="27.98"/>
+  <rect class="cls-10" x="106.82" y="25.15" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
+  <line class="cls-7" x1="96.64" y1="39.1" x2="105.46" y2="39.1"/>
+  <rect class="cls-10" x="98.22" y="36.26" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
+  <line class="cls-7" x1="113.24" y1="50.21" x2="121.4" y2="50.21"/>
+  <rect class="cls-10" x="114.48" y="47.37" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
+  <line class="cls-5" x1="168.35" y1="61.32" x2="212.48" y2="61.32"/>
+  <rect class="cls-11" x="188.25" y="58.48" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
+  <text class="cls-13" transform="translate(66.49 7.5)"><tspan x="0" y="0">Removing Slovakia</tspan></text>
+  <text class="cls-13" transform="translate(67.08 84.39)"><tspan x="0" y="0">Including Slovakia</tspan></text>
+  <line class="cls-6" x1="210.49" y1="72.64" x2="64.88" y2="72.64"/>
+  <rect class="cls-4" x="64.88" y=".5" width="145.43" height="140.48"/>
+  <text class="cls-16" transform="translate(135.6 63.1)"><tspan x="0" y="0">2.17 [1.78-2.56]</tspan></text>
+  <text class="cls-16" transform="translate(130.86 137.75)"><tspan x="0" y="0">2.12 [1.74-2.50]</tspan></text>
+  <g>
+    <rect class="cls-9" x="123.94" y="47.37" width="31.88" height="5.67"/>
+    <text class="cls-16" transform="translate(123.76 51.71)"><tspan x="0" y="0">0.90 [0.85-0.95]</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-9" x="123.21" y="122.79" width="31.88" height="5.67"/>
+    <text class="cls-16" transform="translate(123.03 127.13)"><tspan x="0" y="0">0.90 [0.85-0.95]</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-9" x="106.14" y="111.68" width="31.88" height="5.67"/>
+    <text class="cls-16" transform="translate(105.96 116.02)"><tspan x="0" y="0">0.61 [0.54-0.67]</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-9" x="121.33" y="100.57" width="31.88" height="5.67"/>
+    <text class="cls-16" transform="translate(121.15 104.91)"><tspan x="0" y="0">0.77 [0.64-0.90]</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-9" x="100.29" y="89.64" width="31.88" height="5.67"/>
+    <text class="cls-16" transform="translate(100.11 93.98)"><tspan x="0" y="0">0.52 [0.46-0.57]</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-9" x="106.87" y="36.26" width="31.88" height="5.67"/>
+    <text class="cls-16" transform="translate(106.69 41.15)"><tspan x="0" y="0">0.62[0.55-0.69]</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-9" x="118.99" y="25.24" width="31.88" height="5.67"/>
+    <text class="cls-16" transform="translate(118.81 30.13)"><tspan x="0" y="0">0.77 [0.65-0.90]</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-9" x="101.44" y="13.59" width="31.88" height="5.67"/>
+    <text class="cls-16" transform="translate(101.42 18.64)"><tspan x="0" y="0">0.51 [0.46-0.56]</tspan></text>
+  </g>
+</svg>
