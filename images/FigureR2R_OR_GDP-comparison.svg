@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.1 365.94">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 608.17 480.98">
   <defs>
     <style>
       .cls-1 {
@@ -8,513 +8,509 @@
         stroke-width: .8px;
       }
 
-      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
         fill: none;
       }
 
-      .cls-9, .cls-10, .cls-11 {
+      .cls-10, .cls-11, .cls-12 {
         fill: #fff;
       }
 
-      .cls-12 {
-        fill: #e30613;
-      }
-
-      .cls-12, .cls-2, .cls-3, .cls-10, .cls-4, .cls-5, .cls-6, .cls-7, .cls-11, .cls-8 {
-        stroke-miterlimit: 10;
-      }
-
-      .cls-12, .cls-10, .cls-7 {
-        stroke: #2c7546;
-      }
-
-      .cls-13, .cls-14, .cls-15, .cls-16, .cls-17 {
-        font-family: ArialMT, Arial;
-      }
-
-      .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18 {
-        fill: #1d1d1b;
-      }
-
-      .cls-13, .cls-15, .cls-17 {
-        font-size: 7px;
+      .cls-13 {
+        letter-spacing: -.16em;
       }
 
       .cls-2 {
-        stroke-dasharray: 0 0 2.02 1.01;
+        stroke: #fff;
       }
 
-      .cls-2, .cls-3, .cls-8 {
-        stroke: #e30613;
+      .cls-2, .cls-14, .cls-3, .cls-4, .cls-11, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-12 {
+        stroke-miterlimit: 10;
       }
 
       .cls-14 {
-        font-size: 7.5px;
+        fill: #e30613;
+      }
+
+      .cls-14, .cls-11, .cls-9 {
+        stroke: #2c7546;
       }
 
       .cls-15 {
         letter-spacing: -.05em;
       }
 
-      .cls-4 {
-        stroke: #1d1d1b;
+      .cls-15, .cls-16, .cls-17, .cls-18, .cls-19 {
+        fill: #1d1d1b;
       }
 
-      .cls-16 {
+      .cls-15, .cls-16, .cls-17, .cls-19 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-15, .cls-16, .cls-18, .cls-19 {
         font-size: 10px;
       }
 
-      .cls-19 {
-        letter-spacing: -.16em;
+      .cls-3 {
+        stroke-dasharray: 0 0 2.01 1;
       }
 
-      .cls-17, .cls-20 {
+      .cls-3, .cls-4, .cls-7 {
+        stroke: #e30613;
+      }
+
+      .cls-5 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-17 {
+        font-size: 12px;
+      }
+
+      .cls-18 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-20, .cls-19 {
         letter-spacing: -.05em;
+      }
+
+      .cls-6, .cls-12 {
+        stroke: #ee7116;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 0 0 1.97 .99;
+      }
+
+      .cls-8 {
+        stroke: #dadada;
+        stroke-width: 4px;
       }
 
       .cls-21 {
         letter-spacing: -.02em;
       }
-
-      .cls-18 {
-        font-family: MyriadPro-Regular, 'Myriad Pro';
-        font-size: 5px;
-      }
-
-      .cls-22 {
-        letter-spacing: 0em;
-      }
-
-      .cls-5, .cls-11 {
-        stroke: #ee7116;
-      }
-
-      .cls-23 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-6 {
-        stroke: #dadada;
-        stroke-width: 4px;
-      }
-
-      .cls-8 {
-        stroke-dasharray: 0 0 2.04 1.02;
-      }
     </style>
   </defs>
-  <g>
-    <line class="cls-3" x1="375.89" y1="90.19" x2="375.89" y2="89.19"/>
-    <line class="cls-2" x1="375.89" y1="88.18" x2="375.89" y2="28.14"/>
-    <line class="cls-3" x1="375.89" y1="27.63" x2="375.89" y2="26.63"/>
+  <g id="Capa_1" data-name="Capa 1">
+    <g>
+      <line class="cls-4" x1="482.88" y1="119.31" x2="482.88" y2="118.31"/>
+      <line class="cls-7" x1="482.88" y1="117.32" x2="482.88" y2="40.83"/>
+      <line class="cls-4" x1="482.88" y1="40.33" x2="482.88" y2="39.33"/>
+    </g>
+    <text class="cls-17" transform="translate(9.95 16.62)"><tspan x="0" y="0" xml:space="preserve">A.   Cross-sectional epidemeological analysis</tspan></text>
+    <text class="cls-16" transform="translate(36.42 146.26)"><tspan class="cls-13" x="0" y="0">T</tspan><tspan class="cls-20" x="4.5" y="0">otal (≥1 language)</tspan></text>
+    <text class="cls-19" transform="translate(23.38 160.24)"><tspan x="0" y="0">3 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(23.38 174.23)"><tspan x="0" y="0">2 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(27.88 188.21)"><tspan x="0" y="0">1 additional language</tspan></text>
+    <text class="cls-15" transform="translate(49.12 202.19) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
+    <g>
+      <line class="cls-1" x1="115.7" y1="144.27" x2="113.31" y2="144.27"/>
+      <line class="cls-1" x1="115.7" y1="158.01" x2="113.31" y2="158.01"/>
+      <line class="cls-1" x1="115.7" y1="171.99" x2="113.31" y2="171.99"/>
+      <line class="cls-1" x1="115.7" y1="185.97" x2="113.31" y2="185.97"/>
+      <line class="cls-1" x1="115.7" y1="199.95" x2="113.31" y2="199.95"/>
+    </g>
+    <text class="cls-16" transform="translate(182.08 215.3)"><tspan x="0" y="0">1.0</tspan></text>
+    <text class="cls-16" transform="translate(195.54 230.6)"><tspan x="0" y="0">OR</tspan></text>
+    <text class="cls-16" transform="translate(488.5 230.6)"><tspan x="0" y="0">OR</tspan></text>
+    <text class="cls-16" transform="translate(291.95 215.3)"><tspan x="0" y="0">2.5</tspan></text>
+    <text class="cls-16" transform="translate(112.92 215.4)"><tspan x="0" y="0">0</tspan></text>
+    <line class="cls-1" x1="115.7" y1="205.3" x2="115.7" y2="208.06"/>
+    <line class="cls-1" x1="188.97" y1="205.3" x2="188.97" y2="208.06"/>
+    <text class="cls-16" transform="translate(217.93 215.3)"><tspan x="0" y="0">1.5</tspan></text>
+    <line class="cls-1" x1="224.82" y1="205.3" x2="224.82" y2="208.06"/>
+    <text class="cls-16" transform="translate(254.78 215.3)"><tspan x="0" y="0">2.0</tspan></text>
+    <line class="cls-1" x1="261.67" y1="205.3" x2="261.67" y2="208.06"/>
+    <text class="cls-16" transform="translate(145.67 215.3)"><tspan x="0" y="0">0.5</tspan></text>
+    <line class="cls-1" x1="152.56" y1="205.3" x2="152.56" y2="208.06"/>
+    <line class="cls-1" x1="298.9" y1="205.3" x2="298.9" y2="208.06"/>
+    <g>
+      <line class="cls-4" x1="189.04" y1="205.3" x2="189.04" y2="204.3"/>
+      <line class="cls-3" x1="189.04" y1="203.29" x2="189.04" y2="137.57"/>
+      <line class="cls-4" x1="189.04" y1="137.07" x2="189.04" y2="136.07"/>
+    </g>
+    <line class="cls-9" x1="141.63" y1="144.27" x2="151.16" y2="144.27"/>
+    <rect class="cls-11" x="142.83" y="140.7" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="153.9" y1="158.01" x2="163.43" y2="158.01"/>
+    <rect class="cls-11" x="155.09" y="154.45" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="144.72" y1="171.99" x2="154.25" y2="171.99"/>
+    <rect class="cls-11" x="145.92" y="168.43" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="168.52" y1="185.97" x2="178.79" y2="185.97"/>
+    <rect class="cls-11" x="170.09" y="182.41" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-6" x1="273.37" y1="199.87" x2="296.55" y2="200.04"/>
+    <rect class="cls-12" x="281.39" y="196.39" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <text class="cls-16" transform="translate(36.42 51.36)"><tspan class="cls-13" x="0" y="0">T</tspan><tspan class="cls-20" x="4.5" y="0">otal (≥1 language)</tspan></text>
+    <text class="cls-19" transform="translate(23.38 65.35)"><tspan x="0" y="0">3 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(23.38 79.33)"><tspan x="0" y="0">2 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(27.88 93.32)"><tspan x="0" y="0">1 additional language</tspan></text>
+    <text class="cls-15" transform="translate(49.12 107.3) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
+    <g>
+      <line class="cls-1" x1="115.7" y1="49.37" x2="113.31" y2="49.37"/>
+      <line class="cls-1" x1="115.7" y1="63.12" x2="113.31" y2="63.12"/>
+      <line class="cls-1" x1="115.7" y1="77.1" x2="113.31" y2="77.1"/>
+      <line class="cls-1" x1="115.7" y1="91.08" x2="113.31" y2="91.08"/>
+      <line class="cls-1" x1="115.7" y1="105.06" x2="113.31" y2="105.06"/>
+    </g>
+    <g>
+      <line class="cls-4" x1="189" y1="119.31" x2="189" y2="118.31"/>
+      <line class="cls-7" x1="189" y1="117.32" x2="189" y2="40.83"/>
+      <line class="cls-4" x1="189" y1="40.33" x2="189" y2="39.33"/>
+    </g>
+    <line class="cls-9" x1="145.62" y1="49.37" x2="155.15" y2="49.37"/>
+    <rect class="cls-11" x="146.81" y="45.81" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="159.17" y1="63.12" x2="168.7" y2="63.12"/>
+    <rect class="cls-11" x="160.37" y="59.55" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="150.84" y1="77.1" x2="160.37" y2="77.1"/>
+    <rect class="cls-11" x="152.04" y="73.53" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="164.69" y1="91.08" x2="174.96" y2="91.08"/>
+    <rect class="cls-11" x="166.26" y="87.51" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-6" x1="263.46" y1="105.06" x2="284.51" y2="105.06"/>
+    <rect class="cls-12" x="270.42" y="101.49" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <text class="cls-16" transform="translate(272.45 37.35)"><tspan x="0" y="0">GD</tspan><tspan class="cls-21" x="15" y="0">P</tspan></text>
+    <text class="cls-16" transform="translate(117.72 37.35)"><tspan x="0" y="0">Removing Slovakia</tspan></text>
+    <text class="cls-16" transform="translate(118.47 134.09)"><tspan x="0" y="0">Including Slovakia</tspan></text>
+    <line class="cls-9" x1="161.22" y1="282.05" x2="170.75" y2="282.05"/>
+    <rect class="cls-11" x="162.42" y="278.49" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="159.16" y1="295.8" x2="168.69" y2="295.8"/>
+    <rect class="cls-11" x="160.36" y="292.23" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="166.93" y1="309.78" x2="176.46" y2="309.78"/>
+    <rect class="cls-11" x="168.13" y="306.21" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="177.64" y1="323.76" x2="187.91" y2="323.76"/>
+    <rect class="cls-11" x="179.21" y="320.19" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-6" x1="217.37" y1="337.74" x2="227.99" y2="337.74"/>
+    <rect class="cls-12" x="219.11" y="334.17" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-8" x1="298.9" y1="119.31" x2="115.7" y2="119.31"/>
+    <rect class="cls-5" x="115.7" y="28.54" width="182.98" height="176.76"/>
+    <text class="cls-16" transform="translate(330.29 146.26)"><tspan class="cls-13" x="0" y="0">T</tspan><tspan class="cls-20" x="4.5" y="0">otal (≥1 language)</tspan></text>
+    <text class="cls-19" transform="translate(317.25 160.24)"><tspan x="0" y="0">3 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(317.25 174.23)"><tspan x="0" y="0">2 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(321.75 188.21)"><tspan x="0" y="0">1 additional language</tspan></text>
+    <text class="cls-15" transform="translate(342.99 202.19) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
+    <g>
+      <line class="cls-1" x1="409.57" y1="144.27" x2="407.18" y2="144.27"/>
+      <line class="cls-1" x1="409.57" y1="158.01" x2="407.18" y2="158.01"/>
+      <line class="cls-1" x1="409.57" y1="171.99" x2="407.18" y2="171.99"/>
+      <line class="cls-1" x1="409.57" y1="185.97" x2="407.18" y2="185.97"/>
+      <line class="cls-1" x1="409.57" y1="199.95" x2="407.18" y2="199.95"/>
+    </g>
+    <text class="cls-16" transform="translate(475.96 215.3)"><tspan x="0" y="0">1.0</tspan></text>
+    <text class="cls-16" transform="translate(585.83 215.3)"><tspan x="0" y="0">2.5</tspan></text>
+    <text class="cls-16" transform="translate(406.79 215.4)"><tspan x="0" y="0">0</tspan></text>
+    <line class="cls-1" x1="409.57" y1="205.3" x2="409.57" y2="208.06"/>
+    <line class="cls-1" x1="482.84" y1="205.3" x2="482.84" y2="208.06"/>
+    <text class="cls-16" transform="translate(511.8 215.3)"><tspan x="0" y="0">1.5</tspan></text>
+    <line class="cls-1" x1="518.69" y1="205.3" x2="518.69" y2="208.06"/>
+    <text class="cls-16" transform="translate(548.66 215.3)"><tspan x="0" y="0">2.0</tspan></text>
+    <line class="cls-1" x1="555.54" y1="205.3" x2="555.54" y2="208.06"/>
+    <text class="cls-16" transform="translate(439.55 215.3)"><tspan x="0" y="0">0.5</tspan></text>
+    <line class="cls-1" x1="446.43" y1="205.3" x2="446.43" y2="208.06"/>
+    <line class="cls-1" x1="592.78" y1="205.3" x2="592.78" y2="208.06"/>
+    <g>
+      <line class="cls-4" x1="482.91" y1="205.3" x2="482.91" y2="204.3"/>
+      <line class="cls-3" x1="482.91" y1="203.29" x2="482.91" y2="137.57"/>
+      <line class="cls-4" x1="482.91" y1="137.07" x2="482.91" y2="136.07"/>
+    </g>
+    <line class="cls-9" x1="443.28" y1="144.27" x2="452.81" y2="144.27"/>
+    <rect class="cls-11" x="444.48" y="140.7" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="470.75" y1="158.01" x2="483.76" y2="158.01"/>
+    <rect class="cls-14" x="473.69" y="154.45" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="445.4" y1="171.99" x2="454.93" y2="171.99"/>
+    <rect class="cls-11" x="446.6" y="168.43" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="452.11" y1="185.97" x2="462.38" y2="185.97"/>
+    <rect class="cls-11" x="453.68" y="182.41" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-6" x1="540.53" y1="199.95" x2="561.57" y2="199.95"/>
+    <rect class="cls-12" x="547.48" y="196.39" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <text class="cls-16" transform="translate(330.29 51.36)"><tspan class="cls-13" x="0" y="0">T</tspan><tspan class="cls-20" x="4.5" y="0">otal (≥1 language)</tspan></text>
+    <text class="cls-19" transform="translate(317.25 65.35)"><tspan x="0" y="0">3 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(317.25 79.33)"><tspan x="0" y="0">2 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(321.75 93.32)"><tspan x="0" y="0">1 additional language</tspan></text>
+    <text class="cls-15" transform="translate(342.99 107.3) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
+    <g>
+      <line class="cls-1" x1="409.57" y1="49.37" x2="407.18" y2="49.37"/>
+      <line class="cls-1" x1="409.57" y1="63.12" x2="407.18" y2="63.12"/>
+      <line class="cls-1" x1="409.57" y1="77.1" x2="407.18" y2="77.1"/>
+      <line class="cls-1" x1="409.57" y1="91.08" x2="407.18" y2="91.08"/>
+      <line class="cls-1" x1="409.57" y1="105.06" x2="407.18" y2="105.06"/>
+    </g>
+    <line class="cls-9" x1="447.91" y1="49.37" x2="457.44" y2="49.37"/>
+    <rect class="cls-11" x="449.1" y="45.81" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-12" x1="484.92" y1="63.12" x2="498.71" y2="63.12"/>
+    <rect class="cls-12" x="488.25" y="59.55" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="450.85" y1="77.1" x2="460.38" y2="77.1"/>
+    <rect class="cls-11" x="452.05" y="73.53" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="445.34" y1="91.08" x2="455.61" y2="91.08"/>
+    <rect class="cls-11" x="446.91" y="87.51" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-6" x1="525.12" y1="105.06" x2="543.92" y2="105.06"/>
+    <rect class="cls-12" x="530.95" y="101.49" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <text class="cls-16" transform="translate(519.63 37.35)"><tspan x="0" y="0">GD</tspan><tspan class="cls-21" x="15" y="0">P</tspan><tspan x="21.49" y="0" xml:space="preserve"> per capita</tspan></text>
+    <text class="cls-16" transform="translate(411.6 37.35)"><tspan x="0" y="0">Removing Slovakia</tspan></text>
+    <text class="cls-16" transform="translate(412.34 134.09)"><tspan x="0" y="0">Including Slovakia</tspan></text>
+    <line class="cls-8" x1="592.78" y1="119.31" x2="409.57" y2="119.31"/>
+    <rect class="cls-5" x="409.57" y="28.54" width="182.98" height="176.76"/>
+    <text class="cls-18" transform="translate(544.93 107.3)"><tspan x="0" y="0">1.71 [1.59-1.83]</tspan></text>
+    <text class="cls-18" transform="translate(220.97 107.3)"><tspan x="0" y="0">2.16 [2.03-2.30]</tspan></text>
+    <text class="cls-18" transform="translate(233.35 201.23)"><tspan x="0" y="0">2.32 [2.18-2.48]</tspan></text>
+    <g>
+      <rect class="cls-10" x="456.95" y="87.51" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(456.72 92.97)"><tspan x="0" y="0">0.56 [0.52-0.61]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="178.16" y="87.51" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(177.93 92.97)"><tspan x="0" y="0">0.74 [0.68-0.80]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="181.14" y="182.41" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(180.91 187.86)"><tspan x="0" y="0">0.80 [0.74-0.87]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="155.32" y="168.43" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(155.09 173.88)"><tspan x="0" y="0">0.47 [0.43-0.50]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="164.56" y="154.45" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(164.33 159.9)"><tspan x="0" y="0">0.60 [0.55-0.64]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="151.99" y="140.7" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(151.76 146.16)"><tspan x="0" y="0">0.43 [0.40-0.46]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="461.54" y="73.53" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(461.32 79.69)"><tspan x="0" y="0">0.63 [0.59-0.68]</tspan></text>
+    </g>
+    <text class="cls-18" transform="translate(499.7 64.77)"><tspan x="0" y="0">1.12 [1.03-1.22]</tspan></text>
+    <g>
+      <rect class="cls-10" x="457.81" y="45.01" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(457.79 51.36)"><tspan x="0" y="0">0.59 [0.55-0.63]</tspan></text>
+    </g>
+    <text class="cls-18" transform="translate(498.97 202.62)"><tspan x="0" y="0">1.92 [1.79-2.05]</tspan></text>
+    <g>
+      <rect class="cls-10" x="465.82" y="182.83" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(465.59 188.29)"><tspan x="0" y="0">0.64 [0.59-0.69]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="456.51" y="167.95" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(456.29 174.11)"><tspan x="0" y="0">0.55 [0.51-0.59]</tspan></text>
+    </g>
+    <text class="cls-18" transform="translate(488.09 160.08)"><tspan x="0" y="0">0.92 [0.84-1.00]</tspan></text>
+    <g>
+      <rect class="cls-10" x="454.63" y="140.09" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(454.61 146.44)"><tspan x="0" y="0">0.52 [0.49-0.63]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="162.92" y="73.53" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(162.7 79.69)"><tspan x="0" y="0">0.53[0.50-0.58]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="171.61" y="59.67" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(171.38 65.82)"><tspan x="0" y="0">0.65 [0.60-0.70]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="159.19" y="45.01" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(159.17 51.36)"><tspan x="0" y="0">0.46 [0.43-0.49]</tspan></text>
+    </g>
+    <g>
+      <line class="cls-4" x1="482.88" y1="352.1" x2="482.88" y2="351.1"/>
+      <line class="cls-7" x1="482.88" y1="350.12" x2="482.88" y2="273.62"/>
+      <line class="cls-4" x1="482.88" y1="273.13" x2="482.88" y2="272.13"/>
+    </g>
+    <text class="cls-17" transform="translate(9.95 249.42)"><tspan x="0" y="0" xml:space="preserve">B.   Longitudinal epidemeological analysis</tspan></text>
+    <text class="cls-16" transform="translate(36.42 379.05)"><tspan class="cls-13" x="0" y="0">T</tspan><tspan class="cls-20" x="4.5" y="0">otal (≥1 language)</tspan></text>
+    <text class="cls-19" transform="translate(23.38 393.04)"><tspan x="0" y="0">3 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(23.38 407.02)"><tspan x="0" y="0">2 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(27.88 421.01)"><tspan x="0" y="0">1 additional language</tspan></text>
+    <text class="cls-15" transform="translate(49.12 434.99) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
+    <g>
+      <line class="cls-1" x1="115.7" y1="377.06" x2="113.31" y2="377.06"/>
+      <line class="cls-1" x1="115.7" y1="390.81" x2="113.31" y2="390.81"/>
+      <line class="cls-1" x1="115.7" y1="404.79" x2="113.31" y2="404.79"/>
+      <line class="cls-1" x1="115.7" y1="418.77" x2="113.31" y2="418.77"/>
+      <line class="cls-1" x1="115.7" y1="432.75" x2="113.31" y2="432.75"/>
+    </g>
+    <text class="cls-16" transform="translate(182.08 448.1)"><tspan x="0" y="0">1.0</tspan></text>
+    <text class="cls-16" transform="translate(195.82 463.4)"><tspan x="0" y="0">RR</tspan></text>
+    <text class="cls-16" transform="translate(488.77 463.4)"><tspan x="0" y="0">RR</tspan></text>
+    <text class="cls-16" transform="translate(291.95 448.1)"><tspan x="0" y="0">2.5</tspan></text>
+    <text class="cls-16" transform="translate(112.92 448.2)"><tspan x="0" y="0">0</tspan></text>
+    <line class="cls-1" x1="115.7" y1="438.09" x2="115.7" y2="440.86"/>
+    <line class="cls-1" x1="188.97" y1="438.09" x2="188.97" y2="440.86"/>
+    <text class="cls-16" transform="translate(217.93 448.1)"><tspan x="0" y="0">1.5</tspan></text>
+    <line class="cls-1" x1="224.82" y1="438.09" x2="224.82" y2="440.86"/>
+    <text class="cls-16" transform="translate(254.78 448.1)"><tspan x="0" y="0">2.0</tspan></text>
+    <line class="cls-1" x1="261.67" y1="438.09" x2="261.67" y2="440.86"/>
+    <text class="cls-16" transform="translate(145.67 448.1)"><tspan x="0" y="0">0.5</tspan></text>
+    <line class="cls-1" x1="152.56" y1="438.09" x2="152.56" y2="440.86"/>
+    <line class="cls-1" x1="298.9" y1="438.09" x2="298.9" y2="440.86"/>
+    <g>
+      <line class="cls-4" x1="189.04" y1="438.09" x2="189.04" y2="437.09"/>
+      <line class="cls-3" x1="189.04" y1="436.09" x2="189.04" y2="370.37"/>
+      <line class="cls-4" x1="189.04" y1="369.86" x2="189.04" y2="368.86"/>
+    </g>
+    <line class="cls-9" x1="159.85" y1="377.06" x2="169.38" y2="377.06"/>
+    <rect class="cls-11" x="161.05" y="373.5" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="157.21" y1="390.81" x2="166.74" y2="390.81"/>
+    <rect class="cls-11" x="158.41" y="387.24" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="165.98" y1="404.79" x2="175.51" y2="404.79"/>
+    <rect class="cls-11" x="167.17" y="401.22" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="178.9" y1="418.77" x2="189.17" y2="418.77"/>
+    <rect class="cls-11" x="180.47" y="415.2" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-6" x1="230.09" y1="432.79" x2="219.67" y2="432.71"/>
+    <rect class="cls-12" x="221.32" y="429.18" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <text class="cls-16" transform="translate(36.42 284.16)"><tspan class="cls-13" x="0" y="0">T</tspan><tspan class="cls-20" x="4.5" y="0">otal (≥1 language)</tspan></text>
+    <text class="cls-19" transform="translate(23.38 298.15)"><tspan x="0" y="0">3 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(23.38 312.13)"><tspan x="0" y="0">2 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(27.88 326.11)"><tspan x="0" y="0">1 additional language</tspan></text>
+    <text class="cls-15" transform="translate(49.12 340.1) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
+    <g>
+      <line class="cls-1" x1="115.7" y1="282.17" x2="113.31" y2="282.17"/>
+      <line class="cls-1" x1="115.7" y1="295.92" x2="113.31" y2="295.92"/>
+      <line class="cls-1" x1="115.7" y1="309.9" x2="113.31" y2="309.9"/>
+      <line class="cls-1" x1="115.7" y1="323.88" x2="113.31" y2="323.88"/>
+      <line class="cls-1" x1="115.7" y1="337.86" x2="113.31" y2="337.86"/>
+    </g>
+    <g>
+      <line class="cls-4" x1="189" y1="352.1" x2="189" y2="351.1"/>
+      <line class="cls-7" x1="189" y1="350.12" x2="189" y2="273.62"/>
+      <line class="cls-4" x1="189" y1="273.13" x2="189" y2="272.13"/>
+    </g>
+    <text class="cls-16" transform="translate(272.45 270.15)"><tspan x="0" y="0">GD</tspan><tspan class="cls-21" x="15" y="0">P</tspan></text>
+    <text class="cls-16" transform="translate(117.72 270.15)"><tspan x="0" y="0">Removing Slovakia</tspan></text>
+    <text class="cls-16" transform="translate(118.47 366.88)"><tspan x="0" y="0">Including Slovakia</tspan></text>
+    <line class="cls-8" x1="298.9" y1="352.1" x2="115.7" y2="352.1"/>
+    <rect class="cls-5" x="115.7" y="261.34" width="182.98" height="176.76"/>
+    <text class="cls-16" transform="translate(330.29 379.05)"><tspan class="cls-13" x="0" y="0">T</tspan><tspan class="cls-20" x="4.5" y="0">otal (≥1 language)</tspan></text>
+    <text class="cls-19" transform="translate(317.25 393.04)"><tspan x="0" y="0">3 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(317.25 407.02)"><tspan x="0" y="0">2 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(321.75 421.01)"><tspan x="0" y="0">1 additional language</tspan></text>
+    <text class="cls-15" transform="translate(342.99 434.99) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
+    <g>
+      <line class="cls-1" x1="409.57" y1="377.06" x2="407.18" y2="377.06"/>
+      <line class="cls-1" x1="409.57" y1="390.81" x2="407.18" y2="390.81"/>
+      <line class="cls-1" x1="409.57" y1="404.79" x2="407.18" y2="404.79"/>
+      <line class="cls-1" x1="409.57" y1="418.77" x2="407.18" y2="418.77"/>
+      <line class="cls-1" x1="409.57" y1="432.75" x2="407.18" y2="432.75"/>
+    </g>
+    <text class="cls-16" transform="translate(475.96 448.1)"><tspan x="0" y="0">1.0</tspan></text>
+    <text class="cls-16" transform="translate(585.83 448.1)"><tspan x="0" y="0">2.5</tspan></text>
+    <text class="cls-16" transform="translate(406.79 448.2)"><tspan x="0" y="0">0</tspan></text>
+    <line class="cls-1" x1="409.57" y1="438.09" x2="409.57" y2="440.86"/>
+    <line class="cls-1" x1="482.84" y1="438.09" x2="482.84" y2="440.86"/>
+    <text class="cls-16" transform="translate(511.8 448.1)"><tspan x="0" y="0">1.5</tspan></text>
+    <line class="cls-1" x1="518.69" y1="438.09" x2="518.69" y2="440.86"/>
+    <text class="cls-16" transform="translate(548.66 448.1)"><tspan x="0" y="0">2.0</tspan></text>
+    <line class="cls-1" x1="555.54" y1="438.09" x2="555.54" y2="440.86"/>
+    <text class="cls-16" transform="translate(439.55 448.1)"><tspan x="0" y="0">0.5</tspan></text>
+    <line class="cls-1" x1="446.43" y1="438.09" x2="446.43" y2="440.86"/>
+    <line class="cls-1" x1="592.78" y1="438.09" x2="592.78" y2="440.86"/>
+    <g>
+      <line class="cls-4" x1="482.91" y1="438.09" x2="482.91" y2="437.09"/>
+      <line class="cls-3" x1="482.91" y1="436.09" x2="482.91" y2="370.37"/>
+      <line class="cls-4" x1="482.91" y1="369.86" x2="482.91" y2="368.86"/>
+    </g>
+    <line class="cls-9" x1="463.08" y1="377.06" x2="472.6" y2="377.06"/>
+    <rect class="cls-11" x="464.27" y="373.5" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="468.5" y1="390.81" x2="478.87" y2="390.81"/>
+    <rect class="cls-11" x="470.12" y="387.24" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="464.55" y1="404.79" x2="474.08" y2="404.79"/>
+    <rect class="cls-11" x="465.75" y="401.22" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="469.55" y1="418.77" x2="479.82" y2="418.77"/>
+    <rect class="cls-11" x="471.12" y="415.2" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-6" x1="498.13" y1="432.75" x2="507.39" y2="432.75"/>
+    <rect class="cls-12" x="499.19" y="429.18" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <text class="cls-16" transform="translate(330.29 284.16)"><tspan class="cls-13" x="0" y="0">T</tspan><tspan class="cls-20" x="4.5" y="0">otal (≥1 language)</tspan></text>
+    <text class="cls-19" transform="translate(317.25 298.15)"><tspan x="0" y="0">3 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(317.25 312.13)"><tspan x="0" y="0">2 additional languages</tspan></text>
+    <text class="cls-19" transform="translate(321.75 326.11)"><tspan x="0" y="0">1 additional language</tspan></text>
+    <text class="cls-15" transform="translate(342.99 340.1) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
+    <g>
+      <line class="cls-1" x1="409.57" y1="282.17" x2="407.18" y2="282.17"/>
+      <line class="cls-1" x1="409.57" y1="295.92" x2="407.18" y2="295.92"/>
+      <line class="cls-1" x1="409.57" y1="309.9" x2="407.18" y2="309.9"/>
+      <line class="cls-1" x1="409.57" y1="323.88" x2="407.18" y2="323.88"/>
+      <line class="cls-1" x1="409.57" y1="337.86" x2="407.18" y2="337.86"/>
+    </g>
+    <line class="cls-9" x1="466.27" y1="282.17" x2="475.8" y2="282.17"/>
+    <rect class="cls-11" x="467.47" y="278.6" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-11" x1="478.36" y1="295.92" x2="488.48" y2="295.92"/>
+    <rect class="cls-14" x="479.85" y="292.35" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="467.03" y1="309.9" x2="476.55" y2="309.9"/>
+    <rect class="cls-11" x="468.22" y="306.33" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-9" x1="465.1" y1="323.88" x2="474.5" y2="323.88"/>
+    <rect class="cls-11" x="466.23" y="320.31" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <line class="cls-6" x1="491.41" y1="337.86" x2="500.58" y2="337.86"/>
+    <rect class="cls-12" x="492.43" y="334.29" width="7.13" height="7.13" rx="1.42" ry="1.42"/>
+    <text class="cls-16" transform="translate(519.63 270.15)"><tspan x="0" y="0">GD</tspan><tspan class="cls-21" x="15" y="0">P</tspan><tspan x="21.49" y="0" xml:space="preserve"> per capita</tspan></text>
+    <text class="cls-16" transform="translate(411.6 270.15)"><tspan x="0" y="0">Removing Slovakia</tspan></text>
+    <text class="cls-16" transform="translate(412.34 366.88)"><tspan x="0" y="0">Including Slovakia</tspan></text>
+    <line class="cls-8" x1="592.78" y1="352.1" x2="409.57" y2="352.1"/>
+    <rect class="cls-5" x="409.57" y="261.34" width="182.98" height="176.76"/>
+    <text class="cls-18" transform="translate(503.74 340.1)"><tspan x="0" y="0">1.18 [1.14-1.23]</tspan></text>
+    <text class="cls-18" transform="translate(230.83 340.1)"><tspan x="0" y="0">1.46 [1.41-1.51]</tspan></text>
+    <text class="cls-18" transform="translate(233.35 434.02)"><tspan x="0" y="0">1.48 [1.43-1.53]</tspan></text>
+    <g>
+      <rect class="cls-10" x="476.27" y="320.31" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(476.04 325.77)"><tspan x="0" y="0">0.83 [0.79-0.87]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="191.78" y="320.31" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(191.55 325.77)"><tspan x="0" y="0">0.91 [0.87-0.95]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="190.82" y="415.2" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(190.59 420.66)"><tspan x="0" y="0">0.93 [0.89-0.98]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="176.58" y="401.22" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(176.35 406.68)"><tspan x="0" y="0">0.75 [0.72-0.77]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="167.87" y="387.24" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(167.65 392.7)"><tspan x="0" y="0">0.63 [0.60-0.66]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="170.21" y="373.5" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(169.98 378.95)"><tspan x="0" y="0">0.67 [0.65-0.70]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="477.72" y="306.33" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(477.49 312.49)"><tspan x="0" y="0">0.85 [0.82-0.88]</tspan></text>
+    </g>
+    <text class="cls-18" transform="translate(491.3 297.57)"><tspan x="0" y="0">1.01 [0.95-1.07]</tspan></text>
+    <g>
+      <rect class="cls-10" x="477.73" y="277.81" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(477.71 284.16)"><tspan x="0" y="0">0.84 [0.81-0.87]</tspan></text>
+    </g>
+    <text class="cls-18" transform="translate(507.7 434.99)"><tspan x="0" y="0">1.26 [1.22-1.31]</tspan></text>
+    <g>
+      <rect class="cls-10" x="482.81" y="415.63" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(482.59 421.08)"><tspan x="0" y="0">0.88 [0.84-0.92]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="477.31" y="400.75" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(477.08 406.9)"><tspan x="0" y="0">0.81 [0.78-0.84]</tspan></text>
+    </g>
+    <text class="cls-18" transform="translate(488.09 392.88)"><tspan x="0" y="0">0.87 [0.82-0.92]</tspan></text>
+    <g>
+      <rect class="cls-10" x="480.22" y="372.89" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(480.2 379.24)"><tspan x="0" y="0">0.79 [0.76-0.82]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="178.16" y="306.16" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(177.93 312.31)"><tspan x="0" y="0">0.76[0.73-0.79]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="171.61" y="291.95" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(171.38 298.11)"><tspan x="0" y="0">0.66 [0.62-0.69]</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="172.22" y="277.81" width="40.11" height="7.13"/>
+      <text class="cls-18" transform="translate(172.2 284.16)"><tspan x="0" y="0">0.69 [0.66-0.71]</tspan></text>
+    </g>
   </g>
-  <text class="cls-16" transform="translate(.02 8.58)"><tspan x="0" y="0" xml:space="preserve">A.   Cross-sectional epidemeological analysis</tspan></text>
-  <text class="cls-13" transform="translate(28.31 111.61)"><tspan class="cls-19" x="0" y="0">T</tspan><tspan class="cls-20" x="3.15" y="0">otal (≥1 language)</tspan></text>
-  <text class="cls-17" transform="translate(19.18 122.73)"><tspan x="0" y="0">3 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(19.18 133.84)"><tspan x="0" y="0">2 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(22.33 144.96)"><tspan x="0" y="0">1 additional language</tspan></text>
-  <text class="cls-15" transform="translate(37.2 156.07) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
-  <g>
-    <line class="cls-1" x1="84.06" y1="110.03" x2="82.17" y2="110.03"/>
-    <line class="cls-1" x1="84.06" y1="120.96" x2="82.17" y2="120.96"/>
-    <line class="cls-1" x1="84.06" y1="132.07" x2="82.17" y2="132.07"/>
-    <line class="cls-1" x1="84.06" y1="143.18" x2="82.17" y2="143.18"/>
-    <line class="cls-1" x1="84.06" y1="154.29" x2="82.17" y2="154.29"/>
-  </g>
-  <text class="cls-13" transform="translate(137.49 166.49)"><tspan x="0" y="0">1.0</tspan></text>
-  <text class="cls-13" transform="translate(148.23 178.65)"><tspan x="0" y="0">OR</tspan></text>
-  <text class="cls-13" transform="translate(381.06 178.65)"><tspan x="0" y="0">OR</tspan></text>
-  <text class="cls-13" transform="translate(224.81 166.49)"><tspan x="0" y="0">2.5</tspan></text>
-  <text class="cls-13" transform="translate(82.12 166.57)"><tspan x="0" y="0">0</tspan></text>
-  <line class="cls-1" x1="84.06" y1="158.54" x2="84.06" y2="160.73"/>
-  <line class="cls-1" x1="142.3" y1="158.54" x2="142.3" y2="160.73"/>
-  <text class="cls-13" transform="translate(165.98 166.49)"><tspan x="0" y="0">1.5</tspan></text>
-  <line class="cls-1" x1="170.79" y1="158.54" x2="170.79" y2="160.73"/>
-  <text class="cls-13" transform="translate(195.26 166.49)"><tspan x="0" y="0">2.0</tspan></text>
-  <line class="cls-1" x1="200.08" y1="158.54" x2="200.08" y2="160.73"/>
-  <text class="cls-13" transform="translate(108.55 166.49)"><tspan x="0" y="0">0.5</tspan></text>
-  <line class="cls-1" x1="113.36" y1="158.54" x2="113.36" y2="160.73"/>
-  <line class="cls-1" x1="229.67" y1="158.54" x2="229.67" y2="160.73"/>
-  <g>
-    <line class="cls-3" x1="142.35" y1="158.54" x2="142.35" y2="157.54"/>
-    <line class="cls-8" x1="142.35" y1="156.52" x2="142.35" y2="105.03"/>
-    <line class="cls-3" x1="142.35" y1="104.52" x2="142.35" y2="103.52"/>
-  </g>
-  <line class="cls-7" x1="104.67" y1="110.03" x2="112.25" y2="110.03"/>
-  <rect class="cls-10" x="105.63" y="107.2" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="114.42" y1="120.96" x2="122" y2="120.96"/>
-  <rect class="cls-10" x="115.38" y="118.12" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="107.13" y1="132.07" x2="114.7" y2="132.07"/>
-  <rect class="cls-10" x="108.08" y="129.23" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="126.05" y1="143.18" x2="134.21" y2="143.18"/>
-  <rect class="cls-10" x="127.29" y="140.34" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-5" x1="209.38" y1="154.22" x2="227.8" y2="154.36"/>
-  <rect class="cls-11" x="215.76" y="151.46" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <text class="cls-13" transform="translate(28.31 36.19)"><tspan class="cls-19" x="0" y="0">T</tspan><tspan class="cls-20" x="3.15" y="0">otal (≥1 language)</tspan></text>
-  <text class="cls-17" transform="translate(19.18 47.31)"><tspan x="0" y="0">3 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(19.18 58.42)"><tspan x="0" y="0">2 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(22.33 69.54)"><tspan x="0" y="0">1 additional language</tspan></text>
-  <text class="cls-15" transform="translate(37.2 80.65) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
-  <g>
-    <line class="cls-1" x1="84.06" y1="34.61" x2="82.17" y2="34.61"/>
-    <line class="cls-1" x1="84.06" y1="45.54" x2="82.17" y2="45.54"/>
-    <line class="cls-1" x1="84.06" y1="56.65" x2="82.17" y2="56.65"/>
-    <line class="cls-1" x1="84.06" y1="67.76" x2="82.17" y2="67.76"/>
-    <line class="cls-1" x1="84.06" y1="78.87" x2="82.17" y2="78.87"/>
-  </g>
-  <g>
-    <line class="cls-3" x1="142.33" y1="90.19" x2="142.33" y2="89.19"/>
-    <line class="cls-2" x1="142.33" y1="88.18" x2="142.33" y2="28.14"/>
-    <line class="cls-3" x1="142.33" y1="27.63" x2="142.33" y2="26.63"/>
-  </g>
-  <line class="cls-7" x1="107.84" y1="34.61" x2="115.42" y2="34.61"/>
-  <rect class="cls-10" x="108.8" y="31.78" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="118.61" y1="45.54" x2="126.19" y2="45.54"/>
-  <rect class="cls-10" x="119.57" y="42.7" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="111.99" y1="56.65" x2="119.57" y2="56.65"/>
-  <rect class="cls-10" x="112.94" y="53.81" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="123" y1="67.76" x2="131.16" y2="67.76"/>
-  <rect class="cls-10" x="124.25" y="64.93" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-5" x1="201.5" y1="78.87" x2="218.23" y2="78.87"/>
-  <rect class="cls-11" x="207.03" y="76.04" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <text class="cls-14" transform="translate(209.61 25.06)"><tspan x="0" y="0">GD</tspan><tspan class="cls-21" x="11.25" y="0">P</tspan></text>
-  <text class="cls-14" transform="translate(85.67 25.06)"><tspan x="0" y="0">Removing Slovakia</tspan></text>
-  <text class="cls-14" transform="translate(86.27 101.94)"><tspan x="0" y="0">Including Slovakia</tspan></text>
-  <line class="cls-7" x1="120.24" y1="219.54" x2="127.82" y2="219.54"/>
-  <rect class="cls-10" x="121.2" y="216.71" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="118.61" y1="230.47" x2="126.18" y2="230.47"/>
-  <rect class="cls-10" x="119.56" y="227.63" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="124.78" y1="241.58" x2="132.35" y2="241.58"/>
-  <rect class="cls-10" x="125.73" y="238.74" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="133.3" y1="252.69" x2="141.46" y2="252.69"/>
-  <rect class="cls-10" x="134.54" y="249.85" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-5" x1="164.87" y1="263.8" x2="173.31" y2="263.8"/>
-  <rect class="cls-11" x="166.26" y="260.96" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-6" x1="229.67" y1="90.19" x2="84.06" y2="90.19"/>
-  <rect class="cls-4" x="84.06" y="18.05" width="145.43" height="140.48"/>
-  <text class="cls-13" transform="translate(261.87 111.61)"><tspan class="cls-19" x="0" y="0">T</tspan><tspan class="cls-20" x="3.15" y="0">otal (≥1 language)</tspan></text>
-  <text class="cls-17" transform="translate(252.74 122.73)"><tspan x="0" y="0">3 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(252.74 133.84)"><tspan x="0" y="0">2 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(255.89 144.96)"><tspan x="0" y="0">1 additional language</tspan></text>
-  <text class="cls-15" transform="translate(270.76 156.07) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
-  <g>
-    <line class="cls-1" x1="317.63" y1="110.03" x2="315.73" y2="110.03"/>
-    <line class="cls-1" x1="317.63" y1="120.96" x2="315.73" y2="120.96"/>
-    <line class="cls-1" x1="317.63" y1="132.07" x2="315.73" y2="132.07"/>
-    <line class="cls-1" x1="317.63" y1="143.18" x2="315.73" y2="143.18"/>
-    <line class="cls-1" x1="317.63" y1="154.29" x2="315.73" y2="154.29"/>
-  </g>
-  <text class="cls-13" transform="translate(371.05 166.49)"><tspan x="0" y="0">1.0</tspan></text>
-  <text class="cls-13" transform="translate(458.37 166.49)"><tspan x="0" y="0">2.5</tspan></text>
-  <text class="cls-13" transform="translate(315.68 166.57)"><tspan x="0" y="0">0</tspan></text>
-  <line class="cls-1" x1="317.63" y1="158.54" x2="317.63" y2="160.73"/>
-  <line class="cls-1" x1="375.86" y1="158.54" x2="375.86" y2="160.73"/>
-  <text class="cls-13" transform="translate(399.54 166.49)"><tspan x="0" y="0">1.5</tspan></text>
-  <line class="cls-1" x1="404.35" y1="158.54" x2="404.35" y2="160.73"/>
-  <text class="cls-13" transform="translate(428.83 166.49)"><tspan x="0" y="0">2.0</tspan></text>
-  <line class="cls-1" x1="433.64" y1="158.54" x2="433.64" y2="160.73"/>
-  <text class="cls-13" transform="translate(342.11 166.49)"><tspan x="0" y="0">0.5</tspan></text>
-  <line class="cls-1" x1="346.92" y1="158.54" x2="346.92" y2="160.73"/>
-  <line class="cls-1" x1="463.23" y1="158.54" x2="463.23" y2="160.73"/>
-  <g>
-    <line class="cls-3" x1="375.91" y1="158.54" x2="375.91" y2="157.54"/>
-    <line class="cls-8" x1="375.91" y1="156.52" x2="375.91" y2="105.03"/>
-    <line class="cls-3" x1="375.91" y1="104.52" x2="375.91" y2="103.52"/>
-  </g>
-  <line class="cls-7" x1="344.42" y1="110.03" x2="352" y2="110.03"/>
-  <rect class="cls-10" x="345.37" y="107.2" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="366.25" y1="120.96" x2="376.59" y2="120.96"/>
-  <rect class="cls-12" x="368.59" y="118.12" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="346.1" y1="132.07" x2="353.67" y2="132.07"/>
-  <rect class="cls-10" x="347.05" y="129.23" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="351.44" y1="143.18" x2="359.6" y2="143.18"/>
-  <rect class="cls-10" x="352.68" y="140.34" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-5" x1="421.71" y1="154.29" x2="438.43" y2="154.29"/>
-  <rect class="cls-11" x="427.24" y="151.46" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <text class="cls-13" transform="translate(261.87 36.19)"><tspan class="cls-19" x="0" y="0">T</tspan><tspan class="cls-20" x="3.15" y="0">otal (≥1 language)</tspan></text>
-  <text class="cls-17" transform="translate(252.74 47.31)"><tspan x="0" y="0">3 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(252.74 58.42)"><tspan x="0" y="0">2 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(255.89 69.54)"><tspan x="0" y="0">1 additional language</tspan></text>
-  <text class="cls-15" transform="translate(270.76 80.65) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
-  <g>
-    <line class="cls-1" x1="317.63" y1="34.61" x2="315.73" y2="34.61"/>
-    <line class="cls-1" x1="317.63" y1="45.54" x2="315.73" y2="45.54"/>
-    <line class="cls-1" x1="317.63" y1="56.65" x2="315.73" y2="56.65"/>
-    <line class="cls-1" x1="317.63" y1="67.76" x2="315.73" y2="67.76"/>
-    <line class="cls-1" x1="317.63" y1="78.87" x2="315.73" y2="78.87"/>
-  </g>
-  <line class="cls-7" x1="348.09" y1="34.61" x2="355.67" y2="34.61"/>
-  <rect class="cls-10" x="349.05" y="31.78" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-11" x1="377.51" y1="45.54" x2="388.47" y2="45.54"/>
-  <rect class="cls-11" x="380.15" y="42.7" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="350.43" y1="56.65" x2="358.01" y2="56.65"/>
-  <rect class="cls-10" x="351.38" y="53.81" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="346.06" y1="67.76" x2="354.22" y2="67.76"/>
-  <rect class="cls-10" x="347.3" y="64.93" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-5" x1="409.46" y1="78.87" x2="424.4" y2="78.87"/>
-  <rect class="cls-11" x="414.1" y="76.04" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <text class="cls-14" transform="translate(408.15 25.06)"><tspan x="0" y="0">GD</tspan><tspan class="cls-23" x="11.25" y="0">P</tspan><tspan class="cls-22" x="16.12" y="0" xml:space="preserve"> per capita</tspan></text>
-  <text class="cls-14" transform="translate(319.24 25.06)"><tspan x="0" y="0">Removing Slovakia</tspan></text>
-  <text class="cls-14" transform="translate(319.83 101.94)"><tspan x="0" y="0">Including Slovakia</tspan></text>
-  <line class="cls-6" x1="463.23" y1="90.19" x2="317.63" y2="90.19"/>
-  <rect class="cls-4" x="317.63" y="18.05" width="145.43" height="140.48"/>
-  <text class="cls-18" transform="translate(425.2 80.65)"><tspan x="0" y="0">1.71 [1.59-1.83]</tspan></text>
-  <text class="cls-18" transform="translate(167.73 80.65)"><tspan x="0" y="0">2.16 [2.03-2.30]</tspan></text>
-  <text class="cls-18" transform="translate(177.57 155.3)"><tspan x="0" y="0">2.32 [2.18-2.48]</tspan></text>
-  <g>
-    <rect class="cls-9" x="355.28" y="64.93" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(355.1 69.26)"><tspan x="0" y="0">0.56 [0.52-0.61]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="133.7" y="64.93" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(133.52 69.26)"><tspan x="0" y="0">0.74 [0.68-0.80]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="136.07" y="140.34" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(135.9 144.68)"><tspan x="0" y="0">0.80 [0.74-0.87]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="115.56" y="129.23" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(115.38 133.57)"><tspan x="0" y="0">0.47 [0.43-0.50]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="122.9" y="118.12" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(122.72 122.46)"><tspan x="0" y="0">0.60 [0.55-0.64]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="112.91" y="107.2" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(112.73 111.53)"><tspan x="0" y="0">0.43 [0.40-0.46]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="358.93" y="53.81" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(358.75 58.71)"><tspan x="0" y="0">0.63 [0.59-0.68]</tspan></text>
-  </g>
-  <text class="cls-18" transform="translate(389.26 46.85)"><tspan x="0" y="0">1.12 [1.03-1.22]</tspan></text>
-  <g>
-    <rect class="cls-9" x="355.96" y="31.15" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(355.95 36.19)"><tspan x="0" y="0">0.59 [0.55-0.63]</tspan></text>
-  </g>
-  <text class="cls-18" transform="translate(388.68 156.41)"><tspan x="0" y="0">1.92 [1.79-2.05]</tspan></text>
-  <g>
-    <rect class="cls-9" x="362.33" y="140.68" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(362.15 145.02)"><tspan x="0" y="0">0.64 [0.59-0.69]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="354.94" y="128.86" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(354.76 133.75)"><tspan x="0" y="0">0.55 [0.51-0.59]</tspan></text>
-  </g>
-  <text class="cls-18" transform="translate(380.03 122.6)"><tspan x="0" y="0">0.92 [0.84-1.00]</tspan></text>
-  <g>
-    <rect class="cls-9" x="353.44" y="106.71" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(353.42 111.76)"><tspan x="0" y="0">0.52 [0.49-0.63]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="121.6" y="53.81" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(121.42 58.71)"><tspan x="0" y="0">0.53[0.50-0.58]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="128.5" y="42.79" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(128.32 47.69)"><tspan x="0" y="0">0.65 [0.60-0.70]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="118.63" y="31.15" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(118.61 36.19)"><tspan x="0" y="0">0.46 [0.43-0.49]</tspan></text>
-  </g>
-  <g>
-    <line class="cls-3" x1="375.89" y1="275.21" x2="375.89" y2="274.21"/>
-    <line class="cls-2" x1="375.89" y1="273.2" x2="375.89" y2="213.16"/>
-    <line class="cls-3" x1="375.89" y1="212.65" x2="375.89" y2="211.65"/>
-  </g>
-  <text class="cls-16" transform="translate(.02 193.6)"><tspan x="0" y="0" xml:space="preserve">B.   Longitudinal epidemeological analysis</tspan></text>
-  <text class="cls-13" transform="translate(28.31 296.63)"><tspan class="cls-19" x="0" y="0">T</tspan><tspan class="cls-20" x="3.15" y="0">otal (≥1 language)</tspan></text>
-  <text class="cls-17" transform="translate(19.18 307.75)"><tspan x="0" y="0">3 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(19.18 318.86)"><tspan x="0" y="0">2 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(22.33 329.98)"><tspan x="0" y="0">1 additional language</tspan></text>
-  <text class="cls-15" transform="translate(37.2 341.09) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
-  <g>
-    <line class="cls-1" x1="84.06" y1="295.05" x2="82.17" y2="295.05"/>
-    <line class="cls-1" x1="84.06" y1="305.98" x2="82.17" y2="305.98"/>
-    <line class="cls-1" x1="84.06" y1="317.09" x2="82.17" y2="317.09"/>
-    <line class="cls-1" x1="84.06" y1="328.2" x2="82.17" y2="328.2"/>
-    <line class="cls-1" x1="84.06" y1="339.31" x2="82.17" y2="339.31"/>
-  </g>
-  <text class="cls-13" transform="translate(137.49 351.51)"><tspan x="0" y="0">1.0</tspan></text>
-  <text class="cls-13" transform="translate(148.42 363.67)"><tspan x="0" y="0">RR</tspan></text>
-  <text class="cls-13" transform="translate(381.26 363.67)"><tspan x="0" y="0">RR</tspan></text>
-  <text class="cls-13" transform="translate(224.81 351.51)"><tspan x="0" y="0">2.5</tspan></text>
-  <text class="cls-13" transform="translate(82.12 351.59)"><tspan x="0" y="0">0</tspan></text>
-  <line class="cls-1" x1="84.06" y1="343.56" x2="84.06" y2="345.75"/>
-  <line class="cls-1" x1="142.3" y1="343.56" x2="142.3" y2="345.75"/>
-  <text class="cls-13" transform="translate(165.98 351.51)"><tspan x="0" y="0">1.5</tspan></text>
-  <line class="cls-1" x1="170.79" y1="343.56" x2="170.79" y2="345.75"/>
-  <text class="cls-13" transform="translate(195.26 351.51)"><tspan x="0" y="0">2.0</tspan></text>
-  <line class="cls-1" x1="200.08" y1="343.56" x2="200.08" y2="345.75"/>
-  <text class="cls-13" transform="translate(108.55 351.51)"><tspan x="0" y="0">0.5</tspan></text>
-  <line class="cls-1" x1="113.36" y1="343.56" x2="113.36" y2="345.75"/>
-  <line class="cls-1" x1="229.67" y1="343.56" x2="229.67" y2="345.75"/>
-  <g>
-    <line class="cls-3" x1="142.35" y1="343.56" x2="142.35" y2="342.56"/>
-    <line class="cls-8" x1="142.35" y1="341.54" x2="142.35" y2="290.05"/>
-    <line class="cls-3" x1="142.35" y1="289.54" x2="142.35" y2="288.54"/>
-  </g>
-  <line class="cls-7" x1="119.15" y1="295.05" x2="126.73" y2="295.05"/>
-  <rect class="cls-10" x="120.11" y="292.22" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="117.06" y1="305.98" x2="124.63" y2="305.98"/>
-  <rect class="cls-10" x="118.01" y="303.14" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="124.02" y1="317.09" x2="131.6" y2="317.09"/>
-  <rect class="cls-10" x="124.98" y="314.25" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="134.3" y1="328.2" x2="142.46" y2="328.2"/>
-  <rect class="cls-10" x="135.54" y="325.36" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-5" x1="174.98" y1="339.34" x2="166.7" y2="339.28"/>
-  <rect class="cls-11" x="168.01" y="336.48" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <text class="cls-13" transform="translate(28.31 221.21)"><tspan class="cls-19" x="0" y="0">T</tspan><tspan class="cls-20" x="3.15" y="0">otal (≥1 language)</tspan></text>
-  <text class="cls-17" transform="translate(19.18 232.33)"><tspan x="0" y="0">3 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(19.18 243.44)"><tspan x="0" y="0">2 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(22.33 254.56)"><tspan x="0" y="0">1 additional language</tspan></text>
-  <text class="cls-15" transform="translate(37.2 265.67) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
-  <g>
-    <line class="cls-1" x1="84.06" y1="219.63" x2="82.17" y2="219.63"/>
-    <line class="cls-1" x1="84.06" y1="230.56" x2="82.17" y2="230.56"/>
-    <line class="cls-1" x1="84.06" y1="241.67" x2="82.17" y2="241.67"/>
-    <line class="cls-1" x1="84.06" y1="252.78" x2="82.17" y2="252.78"/>
-    <line class="cls-1" x1="84.06" y1="263.89" x2="82.17" y2="263.89"/>
-  </g>
-  <g>
-    <line class="cls-3" x1="142.33" y1="275.21" x2="142.33" y2="274.21"/>
-    <line class="cls-2" x1="142.33" y1="273.2" x2="142.33" y2="213.16"/>
-    <line class="cls-3" x1="142.33" y1="212.65" x2="142.33" y2="211.65"/>
-  </g>
-  <text class="cls-14" transform="translate(209.61 210.08)"><tspan x="0" y="0">GD</tspan><tspan class="cls-21" x="11.25" y="0">P</tspan></text>
-  <text class="cls-14" transform="translate(85.67 210.08)"><tspan x="0" y="0">Removing Slovakia</tspan></text>
-  <text class="cls-14" transform="translate(86.27 286.96)"><tspan x="0" y="0">Including Slovakia</tspan></text>
-  <line class="cls-6" x1="229.67" y1="275.21" x2="84.06" y2="275.21"/>
-  <rect class="cls-4" x="84.06" y="203.07" width="145.43" height="140.48"/>
-  <text class="cls-13" transform="translate(261.87 296.63)"><tspan class="cls-19" x="0" y="0">T</tspan><tspan class="cls-20" x="3.15" y="0">otal (≥1 language)</tspan></text>
-  <text class="cls-17" transform="translate(252.74 307.75)"><tspan x="0" y="0">3 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(252.74 318.86)"><tspan x="0" y="0">2 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(255.89 329.98)"><tspan x="0" y="0">1 additional language</tspan></text>
-  <text class="cls-15" transform="translate(270.76 341.09) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
-  <g>
-    <line class="cls-1" x1="317.63" y1="295.05" x2="315.73" y2="295.05"/>
-    <line class="cls-1" x1="317.63" y1="305.98" x2="315.73" y2="305.98"/>
-    <line class="cls-1" x1="317.63" y1="317.09" x2="315.73" y2="317.09"/>
-    <line class="cls-1" x1="317.63" y1="328.2" x2="315.73" y2="328.2"/>
-    <line class="cls-1" x1="317.63" y1="339.31" x2="315.73" y2="339.31"/>
-  </g>
-  <text class="cls-13" transform="translate(371.05 351.51)"><tspan x="0" y="0">1.0</tspan></text>
-  <text class="cls-13" transform="translate(458.37 351.51)"><tspan x="0" y="0">2.5</tspan></text>
-  <text class="cls-13" transform="translate(315.68 351.59)"><tspan x="0" y="0">0</tspan></text>
-  <line class="cls-1" x1="317.63" y1="343.56" x2="317.63" y2="345.75"/>
-  <line class="cls-1" x1="375.86" y1="343.56" x2="375.86" y2="345.75"/>
-  <text class="cls-13" transform="translate(399.54 351.51)"><tspan x="0" y="0">1.5</tspan></text>
-  <line class="cls-1" x1="404.35" y1="343.56" x2="404.35" y2="345.75"/>
-  <text class="cls-13" transform="translate(428.83 351.51)"><tspan x="0" y="0">2.0</tspan></text>
-  <line class="cls-1" x1="433.64" y1="343.56" x2="433.64" y2="345.75"/>
-  <text class="cls-13" transform="translate(342.11 351.51)"><tspan x="0" y="0">0.5</tspan></text>
-  <line class="cls-1" x1="346.92" y1="343.56" x2="346.92" y2="345.75"/>
-  <line class="cls-1" x1="463.23" y1="343.56" x2="463.23" y2="345.75"/>
-  <g>
-    <line class="cls-3" x1="375.91" y1="343.56" x2="375.91" y2="342.56"/>
-    <line class="cls-8" x1="375.91" y1="341.54" x2="375.91" y2="290.05"/>
-    <line class="cls-3" x1="375.91" y1="289.54" x2="375.91" y2="288.54"/>
-  </g>
-  <line class="cls-7" x1="360.15" y1="295.05" x2="367.72" y2="295.05"/>
-  <rect class="cls-10" x="361.1" y="292.22" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="364.47" y1="305.98" x2="372.71" y2="305.98"/>
-  <rect class="cls-10" x="365.75" y="303.14" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="361.32" y1="317.09" x2="368.9" y2="317.09"/>
-  <rect class="cls-10" x="362.28" y="314.25" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="365.3" y1="328.2" x2="373.46" y2="328.2"/>
-  <rect class="cls-10" x="366.54" y="325.36" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-5" x1="388.01" y1="339.31" x2="395.37" y2="339.31"/>
-  <rect class="cls-11" x="388.85" y="336.48" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <text class="cls-13" transform="translate(261.87 221.21)"><tspan class="cls-19" x="0" y="0">T</tspan><tspan class="cls-20" x="3.15" y="0">otal (≥1 language)</tspan></text>
-  <text class="cls-17" transform="translate(252.74 232.33)"><tspan x="0" y="0">3 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(252.74 243.44)"><tspan x="0" y="0">2 additional languages</tspan></text>
-  <text class="cls-17" transform="translate(255.89 254.56)"><tspan x="0" y="0">1 additional language</tspan></text>
-  <text class="cls-15" transform="translate(270.76 265.67) scale(1.01 1)"><tspan x="0" y="0">Monolingualism</tspan></text>
-  <g>
-    <line class="cls-1" x1="317.63" y1="219.63" x2="315.73" y2="219.63"/>
-    <line class="cls-1" x1="317.63" y1="230.56" x2="315.73" y2="230.56"/>
-    <line class="cls-1" x1="317.63" y1="241.67" x2="315.73" y2="241.67"/>
-    <line class="cls-1" x1="317.63" y1="252.78" x2="315.73" y2="252.78"/>
-    <line class="cls-1" x1="317.63" y1="263.89" x2="315.73" y2="263.89"/>
-  </g>
-  <line class="cls-7" x1="362.69" y1="219.63" x2="370.27" y2="219.63"/>
-  <rect class="cls-10" x="363.64" y="216.8" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-10" x1="372.29" y1="230.56" x2="380.34" y2="230.56"/>
-  <rect class="cls-12" x="373.48" y="227.72" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="363.29" y1="241.67" x2="370.86" y2="241.67"/>
-  <rect class="cls-10" x="364.24" y="238.84" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-7" x1="361.76" y1="252.78" x2="369.23" y2="252.78"/>
-  <rect class="cls-10" x="362.66" y="249.95" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <line class="cls-5" x1="382.67" y1="263.89" x2="389.96" y2="263.89"/>
-  <rect class="cls-11" x="383.48" y="261.06" width="5.67" height="5.67" rx="1.42" ry="1.42"/>
-  <text class="cls-14" transform="translate(408.15 210.08)"><tspan x="0" y="0">GD</tspan><tspan class="cls-23" x="11.25" y="0">P</tspan><tspan class="cls-22" x="16.12" y="0" xml:space="preserve"> per capita</tspan></text>
-  <text class="cls-14" transform="translate(319.24 210.08)"><tspan x="0" y="0">Removing Slovakia</tspan></text>
-  <text class="cls-14" transform="translate(319.83 286.96)"><tspan x="0" y="0">Including Slovakia</tspan></text>
-  <line class="cls-6" x1="463.23" y1="275.21" x2="317.63" y2="275.21"/>
-  <rect class="cls-4" x="317.63" y="203.07" width="145.43" height="140.48"/>
-  <text class="cls-18" transform="translate(392.47 265.67)"><tspan x="0" y="0">1.18 [1.14-1.23]</tspan></text>
-  <text class="cls-18" transform="translate(175.57 265.67)"><tspan x="0" y="0">1.46 [1.41-1.51]</tspan></text>
-  <text class="cls-18" transform="translate(177.57 340.32)"><tspan x="0" y="0">1.48 [1.43-1.53]</tspan></text>
-  <g>
-    <rect class="cls-9" x="370.64" y="249.95" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(370.46 254.28)"><tspan x="0" y="0">0.83 [0.79-0.87]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="144.53" y="249.95" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(144.35 254.28)"><tspan x="0" y="0">0.91 [0.87-0.95]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="143.77" y="325.36" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(143.59 329.7)"><tspan x="0" y="0">0.93 [0.89-0.98]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="132.45" y="314.25" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(132.27 318.59)"><tspan x="0" y="0">0.75 [0.72-0.77]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="125.53" y="303.14" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(125.35 307.48)"><tspan x="0" y="0">0.63 [0.60-0.66]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="127.39" y="292.22" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(127.21 296.55)"><tspan x="0" y="0">0.67 [0.65-0.70]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="371.79" y="238.84" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(371.61 243.73)"><tspan x="0" y="0">0.85 [0.82-0.88]</tspan></text>
-  </g>
-  <text class="cls-18" transform="translate(382.58 231.87)"><tspan x="0" y="0">1.01 [0.95-1.07]</tspan></text>
-  <g>
-    <rect class="cls-9" x="371.8" y="216.17" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(371.78 221.21)"><tspan x="0" y="0">0.84 [0.81-0.87]</tspan></text>
-  </g>
-  <text class="cls-18" transform="translate(395.61 341.09)"><tspan x="0" y="0">1.26 [1.22-1.31]</tspan></text>
-  <g>
-    <rect class="cls-9" x="375.84" y="325.7" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(375.66 330.04)"><tspan x="0" y="0">0.88 [0.84-0.92]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="371.46" y="313.88" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(371.28 318.77)"><tspan x="0" y="0">0.81 [0.78-0.84]</tspan></text>
-  </g>
-  <text class="cls-18" transform="translate(380.03 307.62)"><tspan x="0" y="0">0.87 [0.82-0.92]</tspan></text>
-  <g>
-    <rect class="cls-9" x="373.77" y="291.73" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(373.76 296.78)"><tspan x="0" y="0">0.79 [0.76-0.82]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="133.7" y="238.7" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(133.52 243.59)"><tspan x="0" y="0">0.76[0.73-0.79]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="128.5" y="227.41" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(128.32 232.3)"><tspan x="0" y="0">0.66 [0.62-0.69]</tspan></text>
-  </g>
-  <g>
-    <rect class="cls-9" x="128.98" y="216.17" width="31.88" height="5.67"/>
-    <text class="cls-18" transform="translate(128.97 221.21)"><tspan x="0" y="0">0.69 [0.66-0.71]</tspan></text>
+  <g id="Capa_2" data-name="Capa 2">
+    <rect class="cls-2" x="63.51" y="-62.51" width="479.98" height="606" transform="translate(63.01 543.99) rotate(-90)"/>
   </g>
 </svg>
