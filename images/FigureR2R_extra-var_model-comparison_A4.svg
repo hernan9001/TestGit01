@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400.44 207.3">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-4 {
+        stroke-width: .8px;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-6, .cls-7, .cls-10, .cls-11 {
+        font-size: 7px;
+      }
+
+      .cls-6, .cls-13 {
+        fill: #ee7116;
+      }
+
+      .cls-14 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-10, .cls-12 {
+        fill: #1d1d1b;
+      }
+
+      .cls-8, .cls-12 {
+        font-size: 7.5px;
+      }
+
+      .cls-9 {
+        font-size: 10px;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 0 3.7 1.6;
+      }
+
+      .cls-10, .cls-15 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-11, .cls-16 {
+        fill: #2c7546;
+      }
+
+      .cls-4 {
+        stroke-linecap: square;
+      }
+
+      .cls-12 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.06em;
+      }
+    </style>
+  </defs>
+  <text class="cls-9" transform="translate(4.46 12.76)"><tspan x="0" y="0" xml:space="preserve">A.   Behavioral</tspan><tspan class="cls-17" x="65.03" y="0"> </tspan><tspan x="67.26" y="0">Age</tspan></text>
+  <text class="cls-9" transform="translate(176.01 12.76)"><tspan x="0" y="0" xml:space="preserve">B.   Behavioral</tspan><tspan class="cls-17" x="65.03" y="0"> </tspan><tspan x="67.26" y="0">Age using extra variables</tspan></text>
+  <text class="cls-12" transform="translate(56.7 27.88)"><tspan x="0" y="0">R² = 0.24 F² = 0.32 r = 0.49</tspan><tspan x="-18.08" y="9">RMSE = 8.61 MDE = 0.03 MAE = 7.05</tspan></text>
+  <g>
+    <text class="cls-11" transform="translate(74.28 147.14)"><tspan x="0" y="0">Protective</tspan><tspan x="3.89" y="8.4">Factors</tspan></text>
+    <text class="cls-6" transform="translate(125.26 147.14)"><tspan x="0" y="0">Risk</tspan><tspan x="-4.86" y="8.4">Factors</tspan></text>
+    <line class="cls-4" x1="67.75" y1="43.07" x2="151.04" y2="43.07"/>
+    <text class="cls-10" transform="translate(12.19 50.15)"><tspan x="0" y="0">Functionality ability</tspan></text>
+    <text class="cls-10" transform="translate(8.81 59.84)"><tspan x="0" y="0">Hearing Impairment</tspan></text>
+    <text class="cls-10" transform="translate(35.99 69.94)"><tspan x="0" y="0">Education</tspan></text>
+    <text class="cls-10" transform="translate(26.93 80.07)"><tspan x="0" y="0">Hypertension</tspan></text>
+    <text class="cls-10" transform="translate(37.55 89.84)"><tspan x="0" y="0">Cognition</tspan></text>
+    <text class="cls-10" transform="translate(24.17 99.43)"><tspan x="0" y="0">Heart Disease</tspan></text>
+    <text class="cls-10" transform="translate(15.77 109.35)"><tspan x="0" y="0">Physical activities</tspan></text>
+    <text class="cls-7" transform="translate(12.9 119.79)"><tspan class="cls-14" x="0" y="0">W</tspan><tspan class="cls-15" x="6.13" y="0">ellbeing Domain</tspan></text>
+    <text class="cls-10" transform="translate(39.15 129.51)"><tspan x="0" y="0">Diabetes</tspan></text>
+    <text class="cls-7" transform="translate(14.03 138.91)"><tspan class="cls-14" x="0" y="0">V</tspan><tspan class="cls-15" x="4.19" y="0">isual Impairment</tspan></text>
+    <text class="cls-10" transform="translate(52.96 149.02)"><tspan x="0" y="0">Sex</tspan></text>
+    <text class="cls-10" transform="translate(38.37 159.15)"><tspan x="0" y="0">Insomnia</tspan></text>
+    <text class="cls-7" transform="translate(107.45 171.02)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-8" transform="translate(76.88 179.38)"><tspan x="0" y="0">Feature importance</tspan></text>
+    <text class="cls-7" transform="translate(146.18 171.02)"><tspan x="0" y="0">0.5</tspan></text>
+    <text class="cls-7" transform="translate(59.93 171.1)"><tspan x="0" y="0">-0.5</tspan></text>
+    <rect class="cls-16" x="73.36" y="44.06" width="35.98" height="7.96"/>
+    <rect class="cls-16" x="102.33" y="63.96" width="7.02" height="7.96"/>
+    <rect class="cls-13" x="109.34" y="73.91" width="6.12" height="7.96"/>
+    <rect class="cls-13" x="109.34" y="93.8" width="5" height="7.96"/>
+    <rect class="cls-13" x="109.34" y="133.59" width=".74" height="7.96"/>
+    <rect class="cls-13" x="109.34" y="153.49" width=".44" height="7.96"/>
+    <rect class="cls-13" x="109.34" y="54.01" width="14.75" height="7.96"/>
+    <rect class="cls-16" x="103.39" y="83.85" width="5.95" height="7.96"/>
+    <rect class="cls-16" x="105.87" y="103.75" width="3.48" height="7.96"/>
+    <rect class="cls-16" x="107" y="113.7" width="2.35" height="7.96"/>
+    <rect class="cls-13" x="109.34" y="123.65" width="1.32" height="7.96"/>
+    <rect class="cls-16" x="108.95" y="143.54" width=".4" height="7.96"/>
+    <line class="cls-1" x1="67.53" y1="163.07" x2="67.53" y2="165.27"/>
+    <line class="cls-1" x1="109.34" y1="163.07" x2="109.34" y2="165.27"/>
+    <line class="cls-1" x1="151.04" y1="163.07" x2="151.04" y2="165.27"/>
+    <line class="cls-1" x1="67.53" y1="48.04" x2="65.78" y2="48.04"/>
+    <line class="cls-1" x1="67.53" y1="57.99" x2="65.78" y2="57.99"/>
+    <line class="cls-1" x1="67.53" y1="67.94" x2="65.78" y2="67.94"/>
+    <line class="cls-1" x1="67.53" y1="77.89" x2="65.78" y2="77.89"/>
+    <line class="cls-1" x1="67.53" y1="87.83" x2="65.78" y2="87.83"/>
+    <line class="cls-1" x1="67.53" y1="97.78" x2="65.78" y2="97.78"/>
+    <line class="cls-1" x1="67.53" y1="107.73" x2="65.78" y2="107.73"/>
+    <line class="cls-1" x1="67.53" y1="117.68" x2="65.78" y2="117.68"/>
+    <line class="cls-1" x1="67.53" y1="127.62" x2="65.78" y2="127.62"/>
+    <line class="cls-1" x1="67.53" y1="137.57" x2="65.78" y2="137.57"/>
+    <line class="cls-1" x1="67.53" y1="147.52" x2="65.78" y2="147.52"/>
+    <line class="cls-1" x1="67.53" y1="157.47" x2="65.78" y2="157.47"/>
+    <line class="cls-3" x1="109.34" y1="161.45" x2="109.34" y2="43.07"/>
+    <line class="cls-4" x1="67.53" y1="161.45" x2="67.53" y2="43.07"/>
+    <line class="cls-4" x1="151.16" y1="161.45" x2="151.16" y2="43.07"/>
+    <line class="cls-4" x1="67.53" y1="162.44" x2="151.16" y2="162.44"/>
+    <line class="cls-4" x1="67.53" y1="43.07" x2="151.16" y2="43.07"/>
+  </g>
+  <text class="cls-12" transform="translate(247.01 27.88)"><tspan x="0" y="0">R² = 0.24 F² = 0.32 r = 0.49</tspan><tspan x="-18.08" y="9">RMSE = 8.22 MDE = 0.03 MAE = 6.69</tspan></text>
+  <text class="cls-11" transform="translate(264.58 147.14)"><tspan x="0" y="0">Protective</tspan><tspan x="3.89" y="8.4">Factors</tspan></text>
+  <text class="cls-6" transform="translate(315.56 147.14)"><tspan x="0" y="0">Risk</tspan><tspan x="-4.86" y="8.4">Factors</tspan></text>
+  <line class="cls-4" x1="258.05" y1="43.07" x2="341.35" y2="43.07"/>
+  <text class="cls-10" transform="translate(202.49 50.15)"><tspan x="0" y="0">Functionality ability</tspan></text>
+  <text class="cls-10" transform="translate(199.11 59.84)"><tspan x="0" y="0">Hearing Impairment</tspan></text>
+  <text class="cls-10" transform="translate(226.29 69.94)"><tspan x="0" y="0">Education</tspan></text>
+  <text class="cls-10" transform="translate(217.23 80.07)"><tspan x="0" y="0">Hypertension</tspan></text>
+  <text class="cls-10" transform="translate(227.85 89.84)"><tspan x="0" y="0">Cognition</tspan></text>
+  <text class="cls-10" transform="translate(214.47 99.43)"><tspan x="0" y="0">Heart Disease</tspan></text>
+  <text class="cls-7" transform="translate(203.2 109.35)"><tspan class="cls-14" x="0" y="0">W</tspan><tspan class="cls-15" x="6.13" y="0">ellbeing Domain</tspan></text>
+  <text class="cls-10" transform="translate(206.07 119.79)"><tspan x="0" y="0">Physical activities</tspan></text>
+  <text class="cls-10" transform="translate(206.18 129.51)"><tspan x="0" y="0">Unhealthy weight</tspan></text>
+  <text class="cls-10" transform="translate(229.45 138.91)"><tspan x="0" y="0">Diabetes</tspan></text>
+  <text class="cls-7" transform="translate(204.33 149.02)"><tspan class="cls-14" x="0" y="0">V</tspan><tspan class="cls-15" x="4.19" y="0">isual Impairment</tspan></text>
+  <text class="cls-10" transform="translate(243.26 159.15)"><tspan x="0" y="0">Sex</tspan></text>
+  <text class="cls-7" transform="translate(297.75 191.75)"><tspan x="0" y="0">0</tspan></text>
+  <text class="cls-8" transform="translate(267.18 200.1)"><tspan x="0" y="0">Feature importance</tspan></text>
+  <text class="cls-7" transform="translate(336.48 191.75)"><tspan x="0" y="0">0.5</tspan></text>
+  <text class="cls-7" transform="translate(250.23 191.83)"><tspan x="0" y="0">-0.5</tspan></text>
+  <line class="cls-1" x1="257.83" y1="183.8" x2="257.83" y2="186"/>
+  <line class="cls-1" x1="299.65" y1="183.8" x2="299.65" y2="186"/>
+  <line class="cls-1" x1="341.35" y1="183.8" x2="341.35" y2="186"/>
+  <line class="cls-1" x1="257.83" y1="48.04" x2="256.08" y2="48.04"/>
+  <line class="cls-1" x1="257.83" y1="57.99" x2="256.08" y2="57.99"/>
+  <line class="cls-1" x1="257.83" y1="67.94" x2="256.08" y2="67.94"/>
+  <line class="cls-1" x1="257.83" y1="77.89" x2="256.08" y2="77.89"/>
+  <line class="cls-1" x1="257.83" y1="87.83" x2="256.08" y2="87.83"/>
+  <line class="cls-1" x1="257.83" y1="97.78" x2="256.08" y2="97.78"/>
+  <line class="cls-1" x1="257.83" y1="107.73" x2="256.08" y2="107.73"/>
+  <line class="cls-1" x1="257.83" y1="117.68" x2="256.08" y2="117.68"/>
+  <line class="cls-1" x1="257.83" y1="127.62" x2="256.08" y2="127.62"/>
+  <line class="cls-1" x1="257.83" y1="137.57" x2="256.08" y2="137.57"/>
+  <line class="cls-1" x1="257.83" y1="147.52" x2="256.08" y2="147.52"/>
+  <line class="cls-1" x1="257.83" y1="157.47" x2="256.08" y2="157.47"/>
+  <text class="cls-10" transform="translate(196.33 168.91)"><tspan x="0" y="0">Alcohol consumption</tspan></text>
+  <text class="cls-10" transform="translate(228.67 179.04)"><tspan x="0" y="0">Insomnia</tspan></text>
+  <line class="cls-1" x1="257.83" y1="147.52" x2="256.08" y2="147.52"/>
+  <line class="cls-1" x1="257.83" y1="157.47" x2="256.08" y2="157.47"/>
+  <line class="cls-1" x1="257.83" y1="167.42" x2="256.08" y2="167.42"/>
+  <line class="cls-1" x1="257.83" y1="177.36" x2="256.08" y2="177.36"/>
+  <line class="cls-4" x1="257.83" y1="182.28" x2="257.83" y2="43.07"/>
+  <line class="cls-4" x1="341.46" y1="182.28" x2="341.46" y2="43.07"/>
+  <line class="cls-4" x1="257.83" y1="183.17" x2="341.46" y2="183.17"/>
+  <line class="cls-4" x1="257.83" y1="43.07" x2="341.46" y2="43.07"/>
+  <g>
+    <rect class="cls-16" x="272.83" y="44.26" width="26.25" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-16" x="285.7" y="64.32" width="13.38" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-16" x="294.52" y="84.38" width="4.56" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-16" x="295.15" y="104.44" width="3.94" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-16" x="296.24" y="114.47" width="2.84" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-16" x="297.25" y="124.5" width="1.83" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-16" x="298.74" y="164.62" width=".35" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-13" x="299.09" y="54.29" width="16.24" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-13" x="299.09" y="74.35" width="6.54" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-13" x="299.09" y="94.41" width="4.16" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-13" x="299.09" y="134.53" width="1.56" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-13" x="299.09" y="144.56" width="1.12" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-13" x="299.09" y="154.59" width=".71" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <rect class="cls-13" x="299.09" y="174.65" width=".21" height="8.02"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+    <line class="cls-3" x1="299.09" y1="183.68" x2="299.09" y2="43.25"/>
+    <rect class="cls-5" x="257.24" y="43.25" width="83.7" height="140.43"/>
+  </g>
+  <rect class="cls-2" x=".5" y=".5" width="399.44" height="206.3"/>
+</svg>
